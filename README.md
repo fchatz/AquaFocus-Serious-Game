@@ -45,14 +45,14 @@ Since this repository serves as a code portfolio, heavy graphics, textures, and 
 
 The core C# scripts inside `Assets/Scripts/` are structured as follows:
 
-* **`BootLoader/` & `Managers/`** — Game initialization, state management, and core gameplay loop orchestration.
-* **`SupaBaseDB/` & `Telemetry/`** — Asynchronous backend communication pipeline, database models, and cloud telemetry logging.
-* **`Submarine_Scripts/` & `JellyFish/`** — Player controller mechanics, physics-based movement, and dynamic/distractor AI agent behaviors.
-* **`SessionScripts/`, `Map2/` & `Map3/`** — Runtime cognitive tasks execution, level logic, and procedural layout boundary tracking.
-* **`ProfileSystem/` & `SaveSystem/`** — Multi-user profile management, local serialization state, and clinical data structures.
-* **`Menus/`, `UI Buttons/`, `LevelSelect/`, `MapSelection/` & `Options/`** — Modular UI/UX system, quality settings adaptation, and screen flow controllers.
-* **`DailyMissions/` & `Store/`** — Meta-game progression systems and reward mechanics used to maintain engagement (Gamification).
-* **`Camera/`, `Sounds/`, `FPS/` & `CoralsGlow/`** — Environment behavior scripts, audio handling, execution debugging tools, and visual effects feedback.
+* **BootLoader/ & Managers/** — Game initialization, state management, and core gameplay loop orchestration.
+* **SupaBaseDB/ & Telemetry/** — Asynchronous backend communication pipeline, database models, and cloud telemetry logging.
+* **Submarine_Scripts/ & JellyFish/** — Player controller mechanics, physics-based movement, and dynamic/distractor AI agent behaviors.
+* **SessionScripts/, Map2/ & Map3/** — Runtime cognitive tasks execution, level logic, and procedural layout boundary tracking.
+* **ProfileSystem/ & SaveSystem/** — Multi-user profile management, local serialization state, and user performance data models.
+* **Menus/, UI Buttons/, LevelSelect/, MapSelection/ & Options/** — Modular UI/UX system, quality settings adaptation, and screen flow controllers.
+* **DailyMissions/ & Store/** — Meta-game progression systems and reward mechanics used to maintain engagement (Gamification).
+* **Camera/, Sounds/, FPS/ & CoralsGlow/** — Environment behavior scripts, audio handling, execution debugging tools, and visual effects feedback.
 
 ---
 
