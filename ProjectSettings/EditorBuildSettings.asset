@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Boot.unity
+    guid: 347434add25b81148aa61e454a1e19d6
+  - enabled: 1
+    path: Assets/Scenes/Menu/MainMenu.unity
+    guid: 58ceac1bfe01eb74e85438dc6a9bf790
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect/LevelSelect.unity
+    guid: 19beaf6d64d5d6c428ca143dbc5a2c41
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 9129b9da1c1e82e4a84a683dc0041c4c
+  - enabled: 1
+    path: Assets/Scenes/Store.unity
+    guid: 86459f8cdb0f0b0419c6ed025a235114
+  - enabled: 1
+    path: Assets/Scenes/Profile/ProfileSelectionScene.unity
+    guid: 830fd39e39a945d48a8037f6295b10b4
+  - enabled: 1
+    path: Assets/Scenes/ParentDashboard.unity
+    guid: 435a021ccb600444da9acdc707e5a2e1
+  - enabled: 1
+    path: Assets/Scenes/Maps/Map1Main.unity
+    guid: 520938a6aa315e54b8ba653138d48b96
+  - enabled: 1
+    path: Assets/Scenes/Maps/Map2.unity
+    guid: 629cb829f1f5861489707695a2a8c080
+  - enabled: 1
+    path: Assets/Scenes/Maps/Map3.unity
+    guid: c0faffa39fcee114ca4ab22ce692829c
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
